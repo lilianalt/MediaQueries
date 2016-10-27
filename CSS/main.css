@@ -1,0 +1,20 @@
+@media {
+	body {
+		background-color: green;
+	}
+	
+}
+
+@media (min-width: 700px) {
+	body {
+		background-color: yellow;
+	}
+	
+}
+
+@media (min-width: 1200px){
+	body {
+		background-color: red;
+	}
+	
+}
